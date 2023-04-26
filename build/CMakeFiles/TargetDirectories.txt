@@ -1,0 +1,4 @@
+/home/denis/Projects/test_task/server/build/CMakeFiles/rebuild_cache.dir
+/home/denis/Projects/test_task/server/build/CMakeFiles/edit_cache.dir
+/home/denis/Projects/test_task/server/build/CMakeFiles/client.dir
+/home/denis/Projects/test_task/server/build/CMakeFiles/server.dir
